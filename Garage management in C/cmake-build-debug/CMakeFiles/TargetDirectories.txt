@@ -1,3 +1,3 @@
-C:/Users/hungt/Desktop/tu4422ho4847cosc292a2/cmake-build-debug/CMakeFiles/tu4422ho4847cosc292a2.dir
-C:/Users/hungt/Desktop/tu4422ho4847cosc292a2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/hungt/Desktop/tu4422ho4847cosc292a2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/C-Assignment/Garage management in C/cmake-build-debug/CMakeFiles/tu4422ho4847cosc292a2.dir
+D:/GitHub/C-Assignment/Garage management in C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/C-Assignment/Garage management in C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
